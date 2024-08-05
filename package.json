@@ -1,0 +1,15 @@
+{
+  "name": "big_projectnode",
+  "version": "1.0.0",
+  "description": "Learning Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Burtan Adrian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
